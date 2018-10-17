@@ -39,3 +39,7 @@ module.exports = {
 - 01.basic
 
 This demo is about how to import css file in a Javascript file. Through [01.basic](01.basic), you can have a basic understanding of how a loader works and what a loader is.
+
+- 02.evaluated/executed
+
+[This demo](02.evaluated/executed) shows that laoders are evaluated/executed from right to left and how to handle sass file by using webpack.
