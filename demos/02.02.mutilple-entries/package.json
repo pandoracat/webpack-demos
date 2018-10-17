@@ -1,0 +1,17 @@
+{
+  "name": "01.demo.concepts",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "scripts": {
+    "build": "rm -rf ./dist && webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
