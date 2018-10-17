@@ -1,0 +1,5 @@
+demos/*/node_modules
+.DS_Store
+dist/
+*.todo
+*.log
